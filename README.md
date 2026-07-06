@@ -1,4 +1,4 @@
-# The Insight Of Xuejyang
+# Xuejyang's Notes
 
 随笔
 
