@@ -6,10 +6,7 @@
 
 ## Translate
 - #1 · [CSS Tips](./translate/css.tips.md)
-
-### Nobody care
-
-- [260422](./nobody-care/260422.md)
+- #2 · [Optimizing Javascript](./translate/optimizing-javascript.md)
 
 ### Moments
 
@@ -36,22 +33,6 @@
 
 - 挥棒：548
 - 投球：202
-
-### Fitness
-
-- 俯卧撑：125
-- 深蹲：300
-- 爬楼梯：181 min
-- 平板支撑：30 min
-- 上卷腹：230
-- 健走：14.54 km
-- 登山跑：780
-- 跪姿俯卧撑：670
-- 上卷腹支撑：264 min
-- 跟练：2
-- 跑步：5.18 km
-- 骑行：14.07 km
-- 侧抬腿：40s-1组 * 4
 
 ### Drink
 
