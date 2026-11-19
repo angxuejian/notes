@@ -32,3 +32,18 @@ C1/C2 考题祥记。
 - 车辆牵引力控制=TCS/ASR/TRC、自动变道=ALC、自动刹车辅助=AEB、电子稳定控制=ESP
 - 实时交通=TMC、随动转向前照灯=AFS
 - 年检：非运营10年，运营5年；申请检测标志：10年=2年申请一次，10年以下=1年申请一次
+- 电池起火用水、电路起火用干粉、油用沙土
+
+
+| 缩写 | 英文 | 中文 | 记忆 |
+|---|---|---|---|
+| **LDW** | Lane Departure Warning | 车道偏离预警 | **偏离 → LDW** |
+| **CC** | Cruise Control | 定速巡航 | **巡航 → CC** |
+| **ACC** | Adaptive Cruise Control | 自适应巡航 | **自适应巡航 → ACC** |
+| **LKA** | Lane Keeping Assist | 车道保持辅助 | **保持车道 → LKA** |
+| **AEB** | Automatic Emergency Braking | 自动紧急制动 | **紧急刹车 → AEB** |
+| **FCW** | Forward Collision Warning | 前向碰撞预警 | **前方要撞 → FCW** |
+| **BSD** | Blind Spot Detection | 盲区监测 | **盲区 → BSD** |
+| **TCS** | Traction Control System | 牵引力控制 | **打滑 → TCS** |
+| **ABS** | Anti-lock Braking System | 防抱死制动 | **刹车不抱死 → ABS** |
+| **ESP** | Electronic Stability Program | 车身电子稳定系统 | **车身稳定 → ESP** |
